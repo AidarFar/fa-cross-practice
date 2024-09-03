@@ -237,9 +237,5 @@ Apache Cordova, Ionic.
 3.  NativeScript: NativeScript - фреймворк для разработки кроссплатформенных мобильных и десктопных приложений на JavaScript, TypeScript и Angular. Он использует нативные компоненты для создания пользовательского интерфейса и поддерживает Windows, macOS и Linux.
     
 4.  OpenFL: OpenFL - кроссплатформенная библиотека для разработки игр и приложений на ActionScript и Haxe. Она поддерживает Windows, macOS, Linux, Android и iOS.
-    
-
-![image](https://github.com/user-attachments/assets/4bc19f08-5043-43ea-bcb7-9581a456a515)
-
-    
+        
 ![image](screenshot.png)
